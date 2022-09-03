@@ -1,10 +1,10 @@
 {
   "comments": {
     "dependencies": {
-      "@babel/cli": "hugo-theme-bootstrap",
-      "@babel/core": "hugo-theme-bootstrap",
-      "@babel/preset-env": "hugo-theme-bootstrap",
-      "@babel/preset-typescript": "hugo-theme-bootstrap",
+      "@babel/cli": "7.18.10",
+      "@babel/core": "7.18.10",
+      "@babel/preset-env": "7.18.10",
+      "@babel/preset-typescript": "7.18.6",
       "@docsearch/js": "hugo-theme-bootstrap",
       "@fortawesome/fontawesome-svg-core": "hugo-theme-bootstrap",
       "@fortawesome/free-brands-svg-icons": "hugo-theme-bootstrap",
