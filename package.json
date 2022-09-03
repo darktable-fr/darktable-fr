@@ -27,7 +27,7 @@
       "webpack": "hugo-theme-bootstrap",
       "workbox-cacheable-response": "hugo-theme-bootstrap",
       "workbox-expiration": "hugo-theme-bootstrap",
-      "workbox-precaching": "hugo-theme-bootstrap",
+      "workbox-precaching": "6.5.4",
       "workbox-routing": "hugo-theme-bootstrap",
       "workbox-strategies": "hugo-theme-bootstrap"
     },
