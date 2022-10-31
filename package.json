@@ -3,7 +3,7 @@
     "dependencies": {
       "@babel/cli": "hugo-theme-bootstrap",
       "@babel/core": "hugo-theme-bootstrap",
-      "@babel/preset-env": "hugo-theme-bootstrap",
+      "@babel/preset-env": "7.19.4",
       "@babel/preset-typescript": "hugo-theme-bootstrap",
       "@docsearch/js": "hugo-theme-bootstrap",
       "@fortawesome/fontawesome-svg-core": "hugo-theme-bootstrap",
