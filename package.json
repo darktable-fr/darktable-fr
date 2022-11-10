@@ -2,7 +2,7 @@
   "comments": {
     "dependencies": {
       "@babel/cli": "hugo-theme-bootstrap",
-      "@babel/core": "hugo-theme-bootstrap",
+      "@babel/core": "7.19.6",
       "@babel/preset-env": "hugo-theme-bootstrap",
       "@babel/preset-typescript": "hugo-theme-bootstrap",
       "@docsearch/js": "hugo-theme-bootstrap",
