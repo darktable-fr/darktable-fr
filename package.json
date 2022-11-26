@@ -2,8 +2,8 @@
   "comments": {
     "dependencies": {
       "@babel/cli": "hugo-theme-bootstrap",
-      "@babel/core": "hugo-theme-bootstrap",
-      "@babel/preset-env": "hugo-theme-bootstrap",
+      "@babel/core": "7.20.2",
+      "@babel/preset-env": "7.20.2",
       "@babel/preset-typescript": "hugo-theme-bootstrap",
       "@docsearch/js": "hugo-theme-bootstrap",
       "@fortawesome/fontawesome-svg-core": "hugo-theme-bootstrap",
