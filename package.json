@@ -2,7 +2,7 @@
   "comments": {
     "dependencies": {
       "@algolia/autocomplete-js": "hugo-theme-bootstrap",
-      "@algolia/autocomplete-theme-classic": "hugo-theme-bootstrap",
+      "@algolia/autocomplete-theme-classic": "1.8.2",
       "@babel/cli": "hugo-theme-bootstrap",
       "@babel/core": "hugo-theme-bootstrap",
       "@babel/preset-env": "hugo-theme-bootstrap",
