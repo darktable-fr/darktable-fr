@@ -14,7 +14,7 @@
       "@fortawesome/free-solid-svg-icons": "hugo-theme-bootstrap",
       "@fullhuman/postcss-purgecss": "hugo-theme-bootstrap",
       "@popperjs/core": "hugo-theme-bootstrap",
-      "algoliasearch": "hugo-theme-bootstrap",
+      "algoliasearch": "4.15.0",
       "autoprefixer": "hugo-theme-bootstrap",
       "bootstrap": "hugo-theme-bootstrap",
       "date-fns": "hugo-theme-bootstrap",
