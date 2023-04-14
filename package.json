@@ -13,7 +13,7 @@
       "@fortawesome/free-regular-svg-icons": "hugo-theme-bootstrap",
       "@fortawesome/free-solid-svg-icons": "hugo-theme-bootstrap",
       "@fullhuman/postcss-purgecss": "hugo-theme-bootstrap",
-      "@popperjs/core": "hugo-theme-bootstrap",
+      "@popperjs/core": "2.11.7",
       "algoliasearch": "hugo-theme-bootstrap",
       "autoprefixer": "hugo-theme-bootstrap",
       "bootstrap": "hugo-theme-bootstrap",
