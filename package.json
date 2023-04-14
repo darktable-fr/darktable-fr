@@ -4,7 +4,7 @@
       "@algolia/autocomplete-js": "hugo-theme-bootstrap",
       "@algolia/autocomplete-theme-classic": "hugo-theme-bootstrap",
       "@babel/cli": "hugo-theme-bootstrap",
-      "@babel/core": "hugo-theme-bootstrap",
+      "@babel/core": "7.21.3",
       "@babel/preset-env": "hugo-theme-bootstrap",
       "@babel/preset-typescript": "hugo-theme-bootstrap",
       "@docsearch/js": "hugo-theme-bootstrap",
