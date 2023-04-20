@@ -28,7 +28,7 @@
       "postcss-cli": "hugo-theme-bootstrap",
       "rtlcss": "hugo-theme-bootstrap",
       "viewerjs": "hugo-theme-bootstrap",
-      "webpack": "hugo-theme-bootstrap",
+      "webpack": "5.77.0",
       "workbox-cacheable-response": "hugo-theme-bootstrap",
       "workbox-expiration": "hugo-theme-bootstrap",
       "workbox-precaching": "hugo-theme-bootstrap",
