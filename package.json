@@ -17,7 +17,7 @@
       "algoliasearch": "hugo-theme-bootstrap",
       "autoprefixer": "hugo-theme-bootstrap",
       "bootstrap": "hugo-theme-bootstrap",
-      "date-fns": "hugo-theme-bootstrap",
+      "date-fns": "2.30.0",
       "fuse.js": "hugo-theme-bootstrap",
       "katex": "hugo-theme-bootstrap",
       "mark.js": "hugo-theme-bootstrap",
