@@ -7,7 +7,7 @@
       "@babel/core": "hugo-theme-bootstrap",
       "@babel/preset-env": "hugo-theme-bootstrap",
       "@babel/preset-typescript": "hugo-theme-bootstrap",
-      "@docsearch/js": "hugo-theme-bootstrap",
+      "@docsearch/js": "3.3.5",
       "@fortawesome/fontawesome-svg-core": "hugo-theme-bootstrap",
       "@fortawesome/free-brands-svg-icons": "hugo-theme-bootstrap",
       "@fortawesome/free-regular-svg-icons": "hugo-theme-bootstrap",
