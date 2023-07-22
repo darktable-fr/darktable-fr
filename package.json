@@ -18,7 +18,7 @@
       "katex": "hugo-theme-bootstrap",
       "mark.js": "hugo-theme-bootstrap",
       "masonry-layout": "hugo-theme-bootstrap",
-      "mermaid": "hugo-theme-bootstrap",
+      "mermaid": "10.2.4",
       "mustache": "hugo-theme-bootstrap",
       "onchange": "hugo-theme-bootstrap",
       "postcss-cli": "hugo-theme-bootstrap",
