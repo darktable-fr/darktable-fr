@@ -23,7 +23,7 @@
       "onchange": "hugo-theme-bootstrap",
       "postcss-cli": "hugo-theme-bootstrap",
       "rtlcss": "hugo-theme-bootstrap",
-      "viewerjs": "hugo-theme-bootstrap",
+      "viewerjs": "1.11.6",
       "workbox-cacheable-response": "hugo-theme-bootstrap",
       "workbox-expiration": "hugo-theme-bootstrap",
       "workbox-precaching": "hugo-theme-bootstrap",
