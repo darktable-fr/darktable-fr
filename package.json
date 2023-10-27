@@ -12,7 +12,7 @@
       "@popperjs/core": "hugo-theme-bootstrap",
       "algoliasearch": "hugo-theme-bootstrap",
       "autoprefixer": "hugo-theme-bootstrap",
-      "bootstrap": "hugo-theme-bootstrap",
+      "bootstrap": "5.3.2",
       "date-fns": "hugo-theme-bootstrap",
       "fuse.js": "hugo-theme-bootstrap",
       "katex": "hugo-theme-bootstrap",
