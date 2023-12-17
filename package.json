@@ -15,7 +15,7 @@
       "bootstrap": "hugo-theme-bootstrap",
       "date-fns": "hugo-theme-bootstrap",
       "fuse.js": "hugo-theme-bootstrap",
-      "katex": "hugo-theme-bootstrap",
+      "katex": "0.16.9",
       "mark.js": "hugo-theme-bootstrap",
       "masonry-layout": "hugo-theme-bootstrap",
       "mermaid": "hugo-theme-bootstrap",
