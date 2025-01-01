@@ -11,7 +11,7 @@
       "@fullhuman/postcss-purgecss": "hugo-theme-bootstrap",
       "@popperjs/core": "hugo-theme-bootstrap",
       "algoliasearch": "hugo-theme-bootstrap",
-      "autoprefixer": "hugo-theme-bootstrap",
+      "autoprefixer": "10.4.20",
       "bootstrap": "hugo-theme-bootstrap",
       "date-fns": "hugo-theme-bootstrap",
       "fuse.js": "hugo-theme-bootstrap",
