@@ -3,7 +3,7 @@
     "dependencies": {
       "@algolia/autocomplete-js": "hugo-theme-bootstrap",
       "@algolia/autocomplete-theme-classic": "hugo-theme-bootstrap",
-      "@docsearch/js": "hugo-theme-bootstrap",
+      "@docsearch/js": "3.9.0",
       "@fortawesome/fontawesome-svg-core": "hugo-theme-bootstrap",
       "@fortawesome/free-brands-svg-icons": "hugo-theme-bootstrap",
       "@fortawesome/free-regular-svg-icons": "hugo-theme-bootstrap",
