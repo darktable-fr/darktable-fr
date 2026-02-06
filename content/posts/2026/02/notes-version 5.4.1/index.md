@@ -115,10 +115,7 @@ sur les changements individuels (le cas échéant).
 
 - Corrigé : images exportées avec des paramètres incorrects lors de l'utilisation de l'exportation multi-préréglages.
 
-- Fixed wrong RAW specific auto-applied preset being applied to non
-  RAW images.
-
-- Corrigé : un préréglage automatique, spécifique au format RAW, était appliqué à des images non RAW.
+- Corrigé : un préréglage avec application automatique, spécifique au format RAW, était appliqué à des images non RAW.
   
 - Corrigé : RustiCL obtient les indicateurs d'optimisation par défaut pour la compilation comme les autres plateformes.
 
