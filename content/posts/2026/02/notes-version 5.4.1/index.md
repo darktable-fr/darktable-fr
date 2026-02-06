@@ -158,25 +158,31 @@ sur les changements individuels (le cas échéant).
 
 ## Lua
 
-### API Version
+### Version de l'API
 
-- API version is now 9.6.0
+- La version de l'API est la 9.6.0
 
-### New Features
-
-- N/A
-
-### Bug Fixes
+### Nouvelles fonctionnalités
 
 - N/A
 
-### Add action support for Lua
+### Correction de bogues
 
-### Other Lua changes
+- N/A
+
+### Ajout d'un support d'action pour Lua
+
+### Autres changements Lua
 
 - N/A
 
 ## Notes
+
+
+
+- Lors de l'exportation vers les formats AVIF, EXR, JPEG XL ou XCF, la sélection de métadonnées spécifiques (par exemple, géomarquage ou créateur) n'est actuellement pas possible. Pour les formats AVIF, EXR, JPEG XL et XCF, darktable n'inclura aucun champ de métadonnées à moins que l'utilisateur ne sélectionne toutes les cases à cocher dans les options de Préférence du module Exporter.
+
+- à partir de la version 5.4, les Mac Intel et les versions macOS antérieures à la version 14.0 ne sont plus pris en charge.
 
 - When exporting to AVIF, EXR, JPEG XL, or XCF, selecting specific
   metadata (e.g. geo-tag or creator) is not currently possible. For
@@ -184,40 +190,38 @@ sur les changements individuels (le cas échéant).
   metadata fields unless the user selects all of the checkboxes in the
   export module's preference options.
 
-- Starting with release 5.4, macOS versions older than 14.0 are no
-  longer supported on Apple Silicon Macs, nor older than macOS 15 on
-  Intel Macs.
+- À partir de la version 5.4, les versions macOS antérieures à 14.0 ne sont plus prises en charge sur les Mac Apple Silicon, ni les versions antérieures à macOS 15 sur les Mac Intel.
 
-## Changed Dependencies
+## Changement de dépendances
 
-### Mandatory
+### Obligatoire(s)
 
 - N/A
 
-### Optional
+### Optionelle(s)
 
 - N/A
 
-## RawSpeed changes
+## Changements RawSpeed
 
 - N/A
 
-## Camera support, compared to 5.4.0
+## Nouveaux Supports d'appareils depuis la version 5.4.0
 
-### Base Support
-
-- N/A
-
-### White Balance Presets
+### Support de base 
 
 - N/A
 
-### Noise Profiles
+### Préréglages de la balance des blancs
+
+- N/A
+
+### Profils de réduction de bruit
 
 - Canon EOS 10D
 - Sony ILCE-7CR
 
-### Missing Compression Mode Support
+### Absence de prise en charge des fichiers raw compressés
 
 - Apple ProRAW DNGs
 - CinemaDNG lossless (Blackmagic, some DJI, etc.) and lossy (Blackmagic)
@@ -227,9 +231,9 @@ sur les changements individuels (le cas échéant).
 - Phase One other than IIQ L
 - Sony ARW 4.0/5.0 downsized lossless ("M" for full-frame, "S" for full-frame & APS-C) and ARW 6.0 lossy
 
-### Suspended Support
+### Fin de Support
 
-Support for the following cameras is suspended because no samples are available on https://raw.pixls.us:
+La prise en charge des appareils suivants est suspendue car aucun échantillon n’est disponible sur raw.pixls.us.
 
 - Creo/Leaf Aptus 22(LF3779)/Hasselblad H1
 - Fujifilm IS-1
@@ -241,25 +245,26 @@ Support for the following cameras is suspended because no samples are available 
 - Phase One IQ250
 - ST Micro STV680
 
-## Translations
+## Traductions
 
-- Czech
-- German
-- European Spanish
-- Finnish
-- French
-- Hungarian
-- Italian
-- Japanese
-- Korean
-- Dutch
-- Polish
-- Brazilian Portuguese
-- Slovenian
-- Albanian
-- Swedish
-- Ukrainian
-- Chinese (Simplified)
-- Chinese (Traditional)
+- Tchèque
+- Allemand
+- Espagnol européen
+- Finlandais
+- Français
+- Hongrois
+- Italien
+- Japonais
+- Coréen
+- Néerlandais
+- Polonais
+- Portugais Brésilien
+- Slovène
+- Albanais
+- Suédois
+- Ukrainien
+- Chinois (simplifié)
+- Chinois (traditionel)
+
 
 
