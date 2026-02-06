@@ -123,7 +123,6 @@ sur les changements individuels (le cas échéant).
   en raison d'un risque de plantage ou de corruption de la mémoire lors de l'analyse de la balise Exif de préservation des hautes lumières.
 
 - Correction du support des masques dans le module Mise à l'échelle des pixels.
-  Fixed the mask support in scale pixels module.
 
 - Corrigé : plantage possible lors de l'utilisation des espaces de travail dû à l'ordre non déterministe de la liste des espaces de travail lus sur le disque.
 
