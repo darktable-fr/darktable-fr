@@ -34,7 +34,7 @@ ___
 Nous sommes fiers d'annoncer la nouvelle version de darktable, 5.4.1 !
 
 La version github est disponible ici :
-[https://github.com/darktable-org/darktable/releases/tag/release-5.2.1](https://github.com/darktable-org/darktable/releases/tag/release-5.4.1).
+[https://github.com/darktable-org/darktable/releases/tag/release-5.4.1](https://github.com/darktable-org/darktable/releases/tag/release-5.4.1).
 
 Comme toujours, n'utilisez pas le fichier tarball autogénéré fourni par
 github, mais uniquement notre fichier tar.xz. Si vous ne construisez que pour vous-même
@@ -107,68 +107,54 @@ sur les changements individuels (le cas échéant).
 
 ## Correction de bogues
 
-- Fixed wrong handling of scaling factor during multi-preset export.
+- Corrigé : erreur de traitement du facteur d'échelle lors de l'exportation avec des multi-préréglages.
 
-- Fixed missing help URL, pointing to the online documentation, for
-  the new AgX module.
+- Corrigé : URL d'aide manquante, renvoyant vers la documentation en ligne, pour le nouveau module AgX.
 
-- Fixed wrong handling of overwrite if changed in export.
+- Corrigé : mauvaise gestion du remplacement s'il est changé lors de l'export.
 
-- Fixed images exported with wrong settings when using multi-preset
-  export.
+- Corrigé : images exportées avec des paramètres incorrects lors de l'utilisation de l'exportation multi-préréglages.
 
 - Fixed wrong RAW specific auto-applied preset being applied to non
   RAW images.
 
-- Fixed subtle color casts in bayer dual demosaicers.
+- Corrigé : un préréglage automatique, spécifique au format RAW, était appliqué à des images non RAW.
+  
+- Corrigé : RustiCL obtient les indicateurs d'optimisation par défaut pour la compilation comme les autres plateformes.
 
-- RustiCL gets the default optimizing compiler flags as other
-  platforms.
+- Corrigé : le chargement de certains fichiers ORF Olympus (par exemple E-410 et E-510)
+  en raison d'un risque de plantage ou de corruption de la mémoire lors de l'analyse de la balise Exif de préservation des hautes lumières.
 
-- Fixed loading some Olympus ORF files (e.g. E-410 and E-510)
-  due to a possible crash or memory corruption when parsing
-  highlight-preservation Exif tag.
+- Correction du support des masques dans le module Mise à l'échelle des pixels.
+  Fixed the mask support in scale pixels module.
 
-- Fixed the mask support in scale pixels module.
+- Corrigé : plantage possible lors de l'utilisation des espaces de travail dû à l'ordre non déterministe de la liste des espaces de travail lus sur le disque.
 
-- Fixed a possible crash when using workspace due to the non
-  deterministic ordering of the list of workspace read on disk.
+- La liste des tags XMP disponibles dans les préférences de l'Éditeur de métadonnées a été limitée aux tags XMP censés être modifiables par l'utilisateur.
 
-- The list of the allowed tags in the metadata editor preferences has
-  been restricted to tags which are supposed to be user-editable.
+- Corrigé : mise à jour des informations de vignette dans les superpositions ou les infobulles lorsque le contenu
+  des variables de métadonnées est modifié. Autrement dit, lorsque les métadonnées sont modifiées, nous devons recalculer les informations de vignette.
 
-- Fixed the thumbnail information update in the overlay or the tooltip
-  when some metadata variable are used. That is, when changing the
-  metadata we need to recompute the thumbnail information.
+- Correction d'un blocage possible lors de la suppression de l'historique sur les systèmes rapides.
 
-- Fixed a possibly standstill while discarding history on fast
-  systems.
+- Correction d'un crash possible lors de l'initialisation de l'interface graphique du module Égaliseur de Couleur.
 
-- Fixed a possible crash in the way the Color Equalizer module GUI is
-  initialized.
+- Corrigé : problème dans la Vue sélection lorsque le passage à la Chambre noire. Cela échouait parfois avec un message d'erreur.
+  
+- Correction d'une incohérence dans l'interface utilisateur du module Styles lorsqu'il est affiché dans la vue Chambre noire.
+  Dans ce cas, il n'est pas possible de créer un duplicata auquel le style est appliqué, et le paramètre de la case à cocher
+  correspondante était simplement ignoré. Pour éviter toute confusion, la case à cocher est désormais masquée dans la vue Chambre noire.
 
-- Fixed an issue in culling layout where switching to the darkroom
-  sometimes failed with an error message.
+- Corrigé : réinitialisation aux paramètres OpenCL par défaut pour chaque périphérique.
 
-- Fixed an inconsistency in the styles module UI when shown in the
-  darkroom view. It is not possible to create a duplicate to which the
-  style is applied, and the setting of the corresponding checkbox has
-  just been ignored. To avoid confusion, the checkbox is now hidden in
-  the darkroom view.
+- problème de métadonnées potentiellement obsolètes lors du retour depuis la chambre noire.
+  Par exemple, si l'image était recadrée dans la chambre noire, les métadonnées $(WIDTH.x) et $(HEIGHT.x) n'étaient pas correctes sur la table lumineuse.
+  
+- Correction d'un problème lors des mises à jour des variables $(CATEGORY[n,m]), lorsqu'un mot-clé est attribué, lié à l'absence de superposition des vignettes
 
-- Fixes resets to default OpenCL per device setting.
+- Corrigé : saut du curseur de courbure lorsqu'il est utilisé dans le gestionnaire de masques.
 
-- Fixed possibly outdated metadata when returning from darkroom. For
-  example if the image is cropped in darkroom, the metadata $(WIDTH.x)
-  and $(HEIGHT.x) where not correct on lighttable.
-
-- Fixed a missing thumbnail overlays with $(CATEGORY[n,m]) variables
-  update when a tag is assigned.
-
-- Fixed jumping of curvature slider when used on the mask manager.
-
-- Fixed a crash when mounting a camera from Darktable due to the
-  current locale. Mounting is now done using the C locale.
+- Corrigé : plantage lors du montage d'une caméra à partir de darktable en raison des paramètres régionaux actifs. Le montage s'effectue désormais à l'aide des paramètres régionaux C.
 
 ## Lua
 
