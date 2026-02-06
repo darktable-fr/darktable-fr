@@ -124,7 +124,7 @@ sur les changements individuels (le cas échéant).
 
 - Correction du support des masques dans le module Mise à l'échelle des pixels.
 
-- Corrigé : plantage possible lors de l'utilisation des espaces de travail dû à l'ordre non déterministe de la liste des espaces de travail lus sur le disque.
+- Corrigé : plantage possible lors de l'utilisation des espaces de travail, dû à l'ordre non déterministe de la liste des espaces de travail lus sur le disque.
 
 - La liste des tags XMP disponibles dans les préférences de l'Éditeur de métadonnées a été limitée aux tags XMP censés être modifiables par l'utilisateur.
 
@@ -144,9 +144,9 @@ sur les changements individuels (le cas échéant).
 - Corrigé : réinitialisation aux paramètres OpenCL par défaut pour chaque périphérique.
 
 - problème de métadonnées potentiellement obsolètes lors du retour depuis la chambre noire.
-  Par exemple, si l'image était recadrée dans la chambre noire, les métadonnées $(WIDTH.x) et $(HEIGHT.x) n'étaient pas correctes sur la table lumineuse.
+  Par exemple, si l'image était recadrée dans la chambre noire, les métadonnées `$(WIDTH.x)` et `$(HEIGHT.x)` n'étaient pas correctes sur la table lumineuse.
   
-- Correction d'un problème lors des mises à jour des variables $(CATEGORY[n,m]), lorsqu'un mot-clé est attribué, lié à l'absence de superposition des vignettes
+- Correction d'un problème lors des mises à jour des variables `$(CATEGORY[n,m])`, lorsqu'un mot-clé est attribué, lié à l'absence de superposition des vignettes
 
 - Corrigé : saut du curseur de courbure lorsqu'il est utilisé dans le gestionnaire de masques.
 
