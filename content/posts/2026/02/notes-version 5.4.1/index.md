@@ -178,14 +178,6 @@ sur les changements individuels (le cas échéant).
 
 - Lors de l'exportation vers les formats AVIF, EXR, JPEG XL ou XCF, la sélection de métadonnées spécifiques (par exemple, géomarquage ou créateur) n'est actuellement pas possible. Pour les formats AVIF, EXR, JPEG XL et XCF, darktable n'inclura aucun champ de métadonnées à moins que l'utilisateur ne sélectionne toutes les cases à cocher dans les options de Préférence du module Exporter.
 
-- à partir de la version 5.4, les Mac Intel et les versions macOS antérieures à la version 14.0 ne sont plus pris en charge.
-
-- When exporting to AVIF, EXR, JPEG XL, or XCF, selecting specific
-  metadata (e.g. geo-tag or creator) is not currently possible. For
-  AVIF, EXR, JPEG XL, and XCF formats, darktable will not include any
-  metadata fields unless the user selects all of the checkboxes in the
-  export module's preference options.
-
 - À partir de la version 5.4, les versions macOS antérieures à 14.0 ne sont plus prises en charge sur les Mac Apple Silicon, ni les versions antérieures à macOS 15 sur les Mac Intel.
 
 ## Changement de dépendances
