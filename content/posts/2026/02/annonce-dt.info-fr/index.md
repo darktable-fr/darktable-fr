@@ -13,8 +13,8 @@ authors:
 coverImage: "images/dt-info-logo5.webp"
 ---
 Il y a quelques mois naissait le site [darktable.info](https://darktable.info/)
-Le projet de l'auteur était de proposer une autre approche de l'apprentissage de darktable. beaucoup moins intimidante, plus terre à terre. Voici ce qu'il en dit
-
+Le projet de l'auteur était de proposer une autre approche de l'apprentissage de darktable. beaucoup moins intimidante, plus terre à terre. Voici ce qu'il en dit.
+![darktable.info](images/dt-info-logo5.webp)
 > À propos de darktable.info
 
 > Darktable est un logiciel formidable ; ici, vous aller en apprendre les concepts fondamentaux. Afin de faciliter au maximum votre apprentissage, nous nous concentrons sur l’essentiel.
