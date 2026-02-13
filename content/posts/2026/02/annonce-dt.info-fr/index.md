@@ -36,7 +36,7 @@ Il y a quelques mois naissait le site [<picture><img src="images/dt-info-logo5.w
 > Notre approche est simple : nous ne vous expliquons pas toutes les options (qui sont légion), mais les méthodes qui fonctionnent, afin que vous obteniez rapidement des résultats et ayez envie de continuer à expérimenter.
 > j'ai été convaincu que ce site darktable.info est le maillon manquant pour aider les débutant⋅es à entrer le plus simplement possible dans darktable. Le pied à l'étrier nécessaire à qui veut rapidement être en selle et trouver ses repères pour avancer avec darktable.
 
-<picture><img src="images/Copie d'écran_20260213_192811.png" alt="Chambre noire" style="display:block; justify-content: center; width:50%;"></picture>
+<picture><img src="images/Copie d'écran_20260213_192811.png" alt="Chambre noire" style="display:block; justify-content:center; width:50%;"></picture>
 
 Le créateur est allemand et naturellement il a créé son site dans sa langue natale. Mais il a si bien travaillé qu'il a séduit d'autres internautes qui ont souhaité proposer des traductions du site. Sont donc venues s'ajouter une version anglaise et une version néerlandaise. Aujourd'hui, c'est la version française qui vient compléter l'internationalisation du site.
 
