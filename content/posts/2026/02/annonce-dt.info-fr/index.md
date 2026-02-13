@@ -12,16 +12,16 @@ authors:
   - "jipivy"
 coverImage: "images/dt-info-logo5.webp"
 ---
-Il y a quelques mois naissait le site [darktable.info](https://darktable.info/)
-Le projet de l'auteur était de proposer une autre approche de l'apprentissage de darktable. beaucoup moins intimidante, plus terre à terre. Voici ce qu'il en dit.
-![darktable.info](images/dt-info-logo5.webp)
-> À propos de darktable.info
+
+Il y a quelques mois naissait le site [<picture><img src="images/dt-info-logo5.webp" alt="darktable.info" style="width:150px;"></picture>](https://darktable.info) Le projet de l'auteur était de proposer une autre approche de l'apprentissage de darktable. beaucoup moins intimidante, plus terre à terre. Voici ce qu'il en dit.
+
+> À propos de [darktable.info](https://darktable.info)
 
 > Darktable est un logiciel formidable ; ici, vous aller en apprendre les concepts fondamentaux. Afin de faciliter au maximum votre apprentissage, nous nous concentrons sur l’essentiel.
 
 > De nombreux tutoriels disponibles sur le Web sont obsolètes ou inutilement compliqués. Ici, vous n’apprenez que les outils dont vous avez réellement besoin. Simple. Sans frustration. Nous ne sommes pas une équipe classique, mais un groupe hétéroclite de personnes qui aiment darktable et savent ce que cela fait d’être débutant.
 
-> Derrière darktable.info il y a des ingénieurs, des développeurs de logiciels, des enseignant⋅es et des professeur⋅es issu⋅es de pays tels que l’Allemagne, le Canada, les Pays-Bas et la France. Qu’est-ce qui nous unit ?
+> Derrière [darktable.info](https://darktable.info) il y a des ingénieurs, des développeurs de logiciels, des enseignant⋅es et des professeur⋅es issu⋅es de pays tels que l’Allemagne, le Canada, les Pays-Bas et la France. Qu’est-ce qui nous unit ?
 
   > - La fascination pour la photographie – du hobby au semi-professionnel.
   > - La conviction que darktable devrait être accessible à tous – à condition de trouver la bonne approche.
