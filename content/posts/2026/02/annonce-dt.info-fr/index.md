@@ -15,6 +15,8 @@ coverImage: "images/dt-info-logo5.webp"
 
 Il y a quelques mois naissait le site [<picture><img src="images/dt-info-logo5.webp" alt="darktable.info" style="width:150px;"></picture>](https://darktable.info) Le projet de l'auteur était de proposer une autre approche de l'apprentissage de darktable. beaucoup moins intimidante, plus terre à terre. Voici ce qu'il en dit.
 
+<br/>
+
 > À propos de [darktable.info](https://darktable.info)
 
 > Darktable est un logiciel formidable ; ici, vous aller en apprendre les concepts fondamentaux. Afin de faciliter au maximum votre apprentissage, nous nous concentrons sur l’essentiel.
@@ -36,12 +38,28 @@ Il y a quelques mois naissait le site [<picture><img src="images/dt-info-logo5.w
 > Notre approche est simple : nous ne vous expliquons pas toutes les options (qui sont légion), mais les méthodes qui fonctionnent, afin que vous obteniez rapidement des résultats et ayez envie de continuer à expérimenter.
 > j'ai été convaincu que ce site darktable.info est le maillon manquant pour aider les débutant⋅es à entrer le plus simplement possible dans darktable. Le pied à l'étrier nécessaire à qui veut rapidement être en selle et trouver ses repères pour avancer avec darktable.
 
-<picture><img src="images/Copie d'écran_20260213_192811.png" alt="Chambre noire" style="display:block; justify-content:center; width:50%;"></picture>
+<br/>
 
-Le créateur est allemand et naturellement il a créé son site dans sa langue natale. Mais il a si bien travaillé qu'il a séduit d'autres internautes qui ont souhaité proposer des traductions du site. Sont donc venues s'ajouter une version anglaise et une version néerlandaise. Aujourd'hui, c'est la version française qui vient compléter l'internationalisation du site.
+<picture><img align="right" width="50%" src="images/Copie d'écran_20260213_192811.png"></picture>Le créateur est allemand et naturellement il a créé son site dans sa langue natale. Mais il a si bien travaillé qu'il a séduit d'autres internautes qui ont souhaité proposer des traductions du site. Sont donc venues s'ajouter une version anglaise et une version néerlandaise.
 
-Si vous êtes pressé vous pouver directement commencer avec le [guide de démmarage rapide](https://darktable.info/fr/demarrage-rapide/) ou découvrir le 
-[flux de travail standard](https://darktable.info/fr/demarrage-rapide/comprendre/flux-de-travail-standard/)
+Aujourd'hui, c'est la version française qui vient compléter l'internationalisation du site.
+
+Si vous êtes pressé vous pouver directement commencer avec le [guide de démmarage rapide](https://darktable.info/fr/demarrage-rapide/).\
+Ou découvrir le [flux de travail standard](https://darktable.info/fr/demarrage-rapide/comprendre/flux-de-travail-standard/).
+
+Vous pouvez aussi adopter une démarche plus classique en parcourant les différentses entrées du menu principal :
+
+[Premiers pas](https://darktable.info/fr/demarrage-rapide/commencer/config-initiale/)\
+[Table lumineuse](https://darktable.info/fr/table-lumineuse/)\
+[Chambre noire](https://darktable.info/fr/chambre-noire/)\
+[Exemples](https://darktable.info/fr/exemples/exemples-agx/)\
+[Système et I.U.](https://darktable.info/fr/systeme-et-interface-utilisateur/)\
+[Performances](https://darktable.info/fr/systeme-et-interface-utilisateur/analyse-performances-cpu/)
+
 J'espère que vous apprécierez, comme moi, cette nouvelle façon de voir les choses.
 
 Bonne découverte !
+
+<div align="center">
+  <img  width="50%" src="images/Copie d'écran_20260214_175227.png">
+</div>
