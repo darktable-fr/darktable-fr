@@ -3,12 +3,11 @@ title: "Version 5.4.0"
 aliases:
   - "darktable-5-4-0"
 date: "2025-12-21"
-featured: true
+featured: false
 categories:
-  - "actualites"
-  - "featured"
+  - "actualités"
 tags:
-  - "featured"
+  - "actualités"
 authors:
   - "jipivy"
 coverImage: "images/dt_logo-5.4.0.png"
