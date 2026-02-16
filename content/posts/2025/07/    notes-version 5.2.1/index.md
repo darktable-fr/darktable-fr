@@ -3,12 +3,11 @@ title: "Version 5.2.1"
 aliases:
   - "darktable-5-2-1"
 date: "2025-08-06"
-featured: true
+featured: false
 categories:
-  - "actualites"
-  - "featured"
+  - "actualités"
 tags:
-  - "featured"
+  - "actualités"
 authors:
   - "jipivy"
 coverImage: "images/dt_logo-5.2.1.png"
