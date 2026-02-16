@@ -3,12 +3,11 @@ title: "Version 4.8.0"
 aliases:
   - "darktable-4-8-0"
 date: "2024-06-21"
-featured: true
+featured: false
 categories:
-  - "actualites"
-  - "featured"
+  - "actualités"
 tags:
-  - "featured"
+  - "actualités"
 authors:
   - "jipivy"
 coverImage: "images/dt_logo-4.8.0.png"
