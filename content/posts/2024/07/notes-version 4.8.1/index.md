@@ -3,12 +3,11 @@ title: "Version corrective 4.8.1"
 aliases:
   - "darktable-4-8-1"
 date: "2024-07-21"
-featured: true
+featured: false
 categories:
-  - "actualites"
-  - "featured"
+  - "actualités"
 tags:
-  - "featured"
+  - "actualités"
 authors:
   - "jipivy"
 coverImage: "images/dt_logo-4.8.1.png"
