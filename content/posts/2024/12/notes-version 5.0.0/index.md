@@ -3,12 +3,11 @@ title: "Version 5.0.0"
 aliases:
   - "darktable-5-0-0"
 date: "2024-12-20"
-featured: true
+featured: false
 categories:
-  - "actualites"
-  - "featured"
+  - "actualités"
 tags:
-  - "featured"
+  - "actualités"
 authors:
   - "jipivy"
 coverImage: "images/dt_logo-5.0.0.png"
