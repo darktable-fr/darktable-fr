@@ -2,6 +2,7 @@
 title: "darktable.info en français"
 date: "2025-10-13"
 featured: true
+pinned: true
 categories:
   - "actualites"
   - "tutoriels"
