@@ -3,12 +3,11 @@ title: "Version 4.6.1"
 aliases:
   - "darktable-4-6-1"
 date: "2024-02-17"
-featured: true
+featured: false
 categories:
-  - "actualites"
-  - "featured"
+  - "actualités"
 tags:
-  - "featured"
+  - "actualités"
 authors:
   - "jipivy"
 coverImage: "images/dt_logo-4.6.1.png"
